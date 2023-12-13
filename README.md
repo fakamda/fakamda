@@ -8,11 +8,11 @@
 
 - 📫 How to reach me **facundodm2010@hotmail.com**
 
-- 📄 Know about my experiences [https://media.licdn.com/dms/image/C4D2DAQGKCuUwUifdJg/profile-treasury-image-shrink_1280_1280/0/1668466963581?e=1703055600&v=beta&t=d3vQmoVrXR-TnZd39NBy41OtycTkp_hkXtThop4Ph3I](https://media.licdn.com/dms/image/C4D2DAQGKCuUwUifdJg/profile-treasury-image-shrink_1280_1280/0/1668466963581?e=1703055600&v=beta&t=d3vQmoVrXR-TnZd39NBy41OtycTkp_hkXtThop4Ph3I)
+- 📄 Know about my experiences [CV](https://media.licdn.com/dms/image/C4D2DAQGKCuUwUifdJg/profile-treasury-image-shrink_1280_1280/0/1668466963581?e=1703055600&v=beta&t=d3vQmoVrXR-TnZd39NBy41OtycTkp_hkXtThop4Ph3I)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/facundo-dominguez-6557bb24b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/facundo-dominguez-6557bb24b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/facundo-dominguez-6557bb24b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/facundo-dominguez-6557bb24b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
