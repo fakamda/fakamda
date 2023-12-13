@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **facundodm2010@hotmail.com**
 
-- 📄 Know about my experiences [CV](https://media.licdn.com/dms/image/C4D2DAQGKCuUwUifdJg/profile-treasury-image-shrink_1280_1280/0/1668466963581?e=1703055600&v=beta&t=d3vQmoVrXR-TnZd39NBy41OtycTkp_hkXtThop4Ph3I)
+- 📄 Know about my experiences [Resume](https://media.licdn.com/dms/image/D562DAQH1bjm6Y-GsEw/profile-treasury-document-cover-images_1280/0/1702449050864?e=1703055600&v=beta&t=OsDC-Qvz_mbAqxumdHZbAAtF_223wbuJ3rsmOmN8zn0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
