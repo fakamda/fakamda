@@ -1,4 +1,4 @@
-![image](https://github.com/fakamda/fakamda/assets/117787499/fbde5766-6e4b-4daa-b7b4-4c6588539b15)<h1 align="center">Hi 👋, I'm Facundo Dominguez</h1>
+<h1 align="center">Hi 👋, I'm Facundo Dominguez</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 <img align="center" src="https://www.freewebheaders.com/wp-content/gallery/planets-galaxies/cache/night-planets-header-8854-1024x300.jpg-nggid041397-ngg0dyn-1280x720x100-00f0w010c010r110f110r010t010.jpg">
 
