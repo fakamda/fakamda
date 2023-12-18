@@ -1,4 +1,4 @@
-![image](https://github.com/fakamda/fakamda/assets/117787499/558c8dc7-3ef2-494d-aabf-40db84682a9a)<h1 align="center">Hi 👋, I'm Facundo Dominguez</h1>
+<h1 align="center">Hi 👋, I'm Facundo Dominguez</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
 <img align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg">
