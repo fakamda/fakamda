@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Facundo Dominguez</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
-<img align="center" src="https://img.freepik.com/premium-photo/banner-starry-outer-space-background-texture_78899-4536.jpg?w=2000">
+<!-- <img align="center" src="https://img.freepik.com/premium-photo/banner-starry-outer-space-background-texture_78899-4536.jpg?w=2000"> -->
+<img align="center" src="https://www.ntc.edu/sites/default/files/styles/full_width_16_9/public/2021-06/software-development-specialist.jpg?itok=D8qgVwxb">
 
 - 🌱 I’m currently learning **React Native, Python**
 
