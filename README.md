@@ -9,7 +9,7 @@ i've been coding for about 2 years, i specialize in MERN stack but i'm learning 
 * 🌍  I'm based in Buenos Aires - Argentina
 * ✉️  You can contact me at [facundodm2010@hotmail.com](mailto:facundodm2010@hotmail.com)
 * 🧠  I'm learning Pentesting, Python and Java
-* ⚡  Fun Fact: When I was younger I use to say that i will never be a programmer... 👀
+* ⚡  Fun Fact: When I was younger I use to say that i would never be a programmer... 👀
 
 ### Skills
 
@@ -27,8 +27,8 @@ i've been coding for about 2 years, i specialize in MERN stack but i'm learning 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/fakamda"><img src="https://github-readme-stats.vercel.app/api?username=fakamda&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="fakamda's GitHub stats" /></a>
+<a href="http://www.github.com/fakamda"><img src="https://github-readme-stats.vercel.app/api?username=fakamda&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="fakamda's GitHub stats" /></a>
 
 <a href="http://www.github.com/fakamda"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fakamda&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/fakamda" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakamda&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/fakamda" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakamda&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
